@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639418624 source:c:\course\simple-pro\data-structure\linkedlist\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+
